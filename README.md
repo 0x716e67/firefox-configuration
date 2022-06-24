@@ -1,2 +1,2 @@
 # firefox-configuration
-extensions I use, etc
+These are the extensions I use for Firefox, or any other browser.
